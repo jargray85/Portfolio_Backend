@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Quoticus",
+      "live": "https://main--quoticus.netlify.app/",
+      "git": "https://github.com/jargray85/Quoticus_Frontend",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Scorecast",
+      "live": "https://scorecast.netlify.app/",
+      "git": "https://github.com/jargray85/ScoreCast-Frontend",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "This is Jeopardy!",
+      "live": "https://scorecast.netlify.app/",
+      "git": "https://github.com/jargray85/ScoreCast-Frontend",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Scorecast",
+      "live": "https://main--this-is-jeopardy-classic.netlify.app/",
+      "git": "https://github.com/jargray85/This-Is-Jeopardy-",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Scorecast",
+      "live": "https://scorecast.netlify.app/",
+      "git": "https://github.com/jargray85/ScoreCast-Frontend",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
