@@ -9,6 +9,8 @@ const app = express()
 
 // Middleware
 app.use(cors("*"))
+// Serve static files from the "images" directory
+app.use('/images', express.static('images'));
 
 // Test/home route
 app.get("/", (req, res) => {

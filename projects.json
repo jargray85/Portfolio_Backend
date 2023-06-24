@@ -3,24 +3,24 @@
       "name": "Quoticus",
       "live": "https://main--quoticus.netlify.app/",
       "git": "https://github.com/jargray85/Quoticus_Frontend",
-      "image": "https://imgur.com/ve9nZ3o"
+      "image": "/images/quoticus-preview.png"
     },
     {
       "name": "Scorecast",
       "live": "https://scorecast.netlify.app/",
       "git": "https://github.com/jargray85/ScoreCast-Frontend",
-      "image": "https://imgur.com/BdvccRl"
+      "image": "/images/scorecast-preview.png"
     },
     {
       "name": "This is Jeopardy!",
       "live": "https://this-is-jeopardy-classic.netlify.app/",
       "git": "https://github.com/jargray85/ScoreCast-Frontend",
-      "image": "https://imgur.com/a/SGOheIp"
+      "image": "/images/jeopardy-preview.png"
     },
     {
       "name": "A Stroll Through the Forest",
       "live": "https://jargray85.github.io/",
       "git": "https://github.com/jargray85/jargray85.github.io",
-      "image": "https://imgur.com/4TsGOew"
+      "image": "/images/forest-stroll-preview.png"
     }
 ]
