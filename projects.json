@@ -13,7 +13,7 @@
     },
     {
       "name": "This is Jeopardy!",
-      "live": "https://scorecast.netlify.app/",
+      "live": "https://this-is-jeopardy-classic.netlify.app/",
       "git": "https://github.com/jargray85/ScoreCast-Frontend",
       "image": "https://imgur.com/a/SGOheIp"
     },
