@@ -1,4 +1,5 @@
 const express = require("express")
+const path =require("path")
 const cors = require("cors")
 
 // Import JSON files
@@ -9,8 +10,8 @@ const app = express()
 
 // Middleware
 app.use(cors("*"))
-// Serve static files from the "images" directory
-app.use('/images', express.static('images'));
+// Serve static files from the "public" directory
+app.use(express.static(path.join(__dirname, "public")))
 
 // Test/home route
 app.get("/", (req, res) => {
