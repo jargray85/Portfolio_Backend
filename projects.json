@@ -1,24 +1,24 @@
 [
     {
-      "name": "Quoticus",
+      "name": "React/Typescript - Python/Flask - PostrgeSQL",
       "live": "https://main--quoticus.netlify.app/",
       "git": "https://github.com/jargray85/Quoticus_Frontend",
       "image": "/images/quoticus-preview.png"
     },
     {
-      "name": "Scorecast",
+      "name": "React.js - Express - MongoDB",
       "live": "https://scorecast.netlify.app/",
       "git": "https://github.com/jargray85/ScoreCast-Frontend",
       "image": "/images/scorecast-preview.png"
     },
     {
-      "name": "This is Jeopardy!",
+      "name": "React.js - JService API",
       "live": "https://this-is-jeopardy-classic.netlify.app/",
       "git": "https://github.com/jargray85/ScoreCast-Frontend",
       "image": "/images/jeopardy-preview.png"
     },
     {
-      "name": "A Stroll Through the Forest",
+      "name": "HTML - CSS - Javascript",
       "live": "https://jargray85.github.io/",
       "git": "https://github.com/jargray85/jargray85.github.io",
       "image": "/images/forest-stroll-preview.png"
