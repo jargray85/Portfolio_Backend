@@ -4,6 +4,7 @@ const cors = require("cors")
 
 // Import JSON files
 const projects = require("./projects.json")
+const about = require("./about.json")
 
 // Create app object
 const app = express()
@@ -21,6 +22,11 @@ app.get("/", (req, res) => {
 // Route for retrieving project data
 app.get("/projects", (req, res) => {
     res.json(projects)
+})
+
+// Route for retrieving about data
+app.get("/about", (req, res) => {
+    res.json(about)
 })
 
 // Port number
