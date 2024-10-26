@@ -6,18 +6,6 @@
       "image": "/images/quoticus-preview.png"
     },
     {
-      "name": "React.js - Express - MongoDB - Rapid API",
-      "live": "https://scorecast.netlify.app/",
-      "git": "https://github.com/jargray85/ScoreCast-Frontend",
-      "image": "/images/scorecast-preview.png"
-    },
-    {
-      "name": "React.js - JService API",
-      "live": "https://this-is-jeopardy-classic.netlify.app/",
-      "git": "https://github.com/jargray85/ScoreCast-Frontend",
-      "image": "/images/jeopardy-preview.png"
-    },
-    {
       "name": "EJS - Express.js - Node.js - MongoDB",
       "live": "https://captain-collector.herokuapp.com/",
       "git": "https://github.com/jargray85/captain_collector",
